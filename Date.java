@@ -1,9 +1,3 @@
-//ICSI 201. Introduction to Computer Science
-//Fall 2021
-//Sourav Dutta
-//Rhett Evans
-//001529144
-
 public class Date 
 {
 	private int month; //stores the month of the purchase
