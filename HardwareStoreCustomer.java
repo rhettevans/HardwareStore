@@ -1,9 +1,3 @@
-//ICSI 201. Introduction to Computer Science
-//Fall 2021
-//Sourav Dutta
-//Rhett Evans
-//001529144
-
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
